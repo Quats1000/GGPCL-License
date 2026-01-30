@@ -1,4 +1,4 @@
-# GGPCL - Glera-Generell-Public-Creativ-License
+# GGPCL - Glera-Generell-Public-Creative-License
 
 Version 1.0  
 Created by: Niklas Legler
