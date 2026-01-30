@@ -87,6 +87,7 @@ Your software is now licensed:
 - Copyright stays with YOU
 - Others can use and modify it
 - But NOT sell or use commercially
+    - unless YOU give them permission to do so
 - All modifications must also stay under GGPCL
 
 ---
